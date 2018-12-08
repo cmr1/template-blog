@@ -1,7 +1,7 @@
 ---
 location: homepage
 head:
-  title: CMR1 - Stuff
+  title: CMR1 - Cloud Solutions
   subtitle: Welcome to the CMR1 blog!
   img_path: /img/logo-badge.png
 style:
@@ -30,6 +30,8 @@ cta:
 ---
 
 
+
 &nbsp;
+
 
 
